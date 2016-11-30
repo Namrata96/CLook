@@ -22,7 +22,7 @@ When the user enters the subject preference, the application sorts all courses b
 
 Following this, users can also filter on the basis of university, instructor, start date etc.
 
-##Built With
+## Built With
 
 * Python 2.7
 * MySQL5.7
@@ -33,14 +33,28 @@ Following this, users can also filter on the basis of university, instructor, st
 
 ## Demo
 
+Here's a screenshot of the landing page of the application 
+![Jumbotron](/assets/jumbotron.png)
 
-##Contributing
+A description of CLook
+![Description](/assets/desc.png)
+
+A list of all the features offered by CLook
+![Features](/assets/features.png)
+
+A list of OCW websites the application looks up
+![Sites](/assets/courseList.png)
+
+And finally, a trial of the search page of the application
+![Search](/assets/trial.png)
+
+## Contributing
 
 See [CONTRIBUTING.md](https://github.com/Namrata96/CLook/blob/master/CONTRIBUTING.md) for more details. Or feel free to reach out to us via mail.
 
 [Namrata Mukhija](mailto:namratamukhija@gmail.com)
 [Ipshita Chatterjee](mailto:chatterjeei08@gmail.com)
 
-##License
+## License
 
 CLook is licensed under Apache 2.0 license. See [LICENSE.md](https://github.com/Namrata96/CLook/blob/master/LICENSE.md) for more details.
